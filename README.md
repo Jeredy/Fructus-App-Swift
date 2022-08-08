@@ -8,6 +8,7 @@
    - SwiftUI;
    
   ## Learned:
+  - Onboarding Screen;
   - Animation;
   - Reading JSON type data;
   - Manipulation of data and variables;
